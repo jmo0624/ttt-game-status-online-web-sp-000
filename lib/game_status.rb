@@ -81,4 +81,6 @@ def winner(board)
   
   index = []
   
-  index = 
+  index = won?(board)
+  
+  
