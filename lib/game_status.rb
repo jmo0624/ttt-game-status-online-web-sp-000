@@ -51,4 +51,4 @@ end
 
 def draw?(board)
   
-  if !win
+  if !won? 
