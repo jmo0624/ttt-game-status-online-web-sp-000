@@ -89,4 +89,4 @@ def winner(board)
     
   else
     
-    if board[index[0]]
+    if board[index[0]] == "X"
