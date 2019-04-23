@@ -19,3 +19,4 @@ def won?(board)
   
   WIN_COMBINATIONS.each {|win_combo|
   
+    index
