@@ -45,4 +45,7 @@ end
 
 def full?(board)
   
-  board.all? {
+  board.all? {|index| index == "X" || index == "O"}
+  
+end
+
